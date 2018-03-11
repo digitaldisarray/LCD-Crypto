@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\Komoduino\Komoduino\bin\Debug\Komoduino.exe.config
+D:\VisualStudioProjects\Komoduino\Komoduino\bin\Debug\Komoduino.exe
+D:\VisualStudioProjects\Komoduino\Komoduino\bin\Debug\Komoduino.pdb
+D:\VisualStudioProjects\Komoduino\Komoduino\bin\Debug\HtmlAgilityPack.dll
+D:\VisualStudioProjects\Komoduino\Komoduino\bin\Debug\HtmlAgilityPack.pdb
+D:\VisualStudioProjects\Komoduino\Komoduino\bin\Debug\HtmlAgilityPack.xml
+D:\VisualStudioProjects\Komoduino\Komoduino\obj\Debug\Komoduino.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\Komoduino\Komoduino\obj\Debug\Komoduino.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Komoduino\Komoduino\obj\Debug\Komoduino.exe
+D:\VisualStudioProjects\Komoduino\Komoduino\obj\Debug\Komoduino.pdb
